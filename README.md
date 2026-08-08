@@ -2,7 +2,6 @@
 
 ## steps to practice 
 
-```
 1. create a venv
  ```
 1.pip install uv 
@@ -10,9 +9,11 @@
  ```
 2.uv env rageng 
  ```
-```
+
+  ```
 3.baserag\Scripts\activate 
  ```
+
  ## steps for github
 
  1. Install git
@@ -28,4 +29,4 @@
  3. git push
 
  ### make requirements file 
-
+ 
